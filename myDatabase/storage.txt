@@ -1,1 +1,0 @@
-{"phoneBook":[{"phoneNumber":"123456","nickname":"nickname1","lastname":"Perminov","firstname":"Misha","patronymic":"Alex"}]}
